@@ -1,4 +1,5 @@
-01 CLIs allow you to do all operations.
+01 CLIs allow you to do all operations(alternative).
 02 branch - a place that can work on repository.
+03 repository is a place where we can see the version of the changes(alternative).
 04 index - A structure where changes to the working directory are staged.
-05 GUIs are often give you a convinent view of the changes in the repo (main).
+05 GUIs are often give you a convinent view of the changes in the repo.
