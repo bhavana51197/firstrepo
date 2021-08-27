@@ -1,0 +1,5 @@
+01 if there is a remote repository used a shared centralized repo.
+02 branch - a place that can work on repository.
+03 working directory - where we are currently working and making changes.
+04 index - A structure where changes to the working directory are staged.
+05 GUIs are often give you a convinent view of the changes in the repo.
